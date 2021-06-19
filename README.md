@@ -3,22 +3,22 @@
 
 # 运行界面
 ## 共有界面
-    首页
+  首页
 
-    <img src="https://i.loli.net/2021/06/19/x9hL4Pb3IpCaEtR.png"/>
+  <img src="https://i.loli.net/2021/06/19/x9hL4Pb3IpCaEtR.png"/>
 
-    搜索
+  搜索
 
-    <img src="https://i.loli.net/2021/06/19/STfKBNa3qnZlr2A.png"/>
+  <img src="https://i.loli.net/2021/06/19/STfKBNa3qnZlr2A.png"/>
 
-    购物车
+  购物车
 
-    <img src="https://i.loli.net/2021/06/19/cUyTlbPiwf2VBzM.png"/>
+  <img src="https://i.loli.net/2021/06/19/cUyTlbPiwf2VBzM.png"/>
 
 
-    订单状态
+  订单状态
 
-    <img src="https://i.loli.net/2021/06/19/98kltBYrVDObs1R.png"/>
+  <img src="https://i.loli.net/2021/06/19/98kltBYrVDObs1R.png"/>
 
 ## 客户端界面
 
